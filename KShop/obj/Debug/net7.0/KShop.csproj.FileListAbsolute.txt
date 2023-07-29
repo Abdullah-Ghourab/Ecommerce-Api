@@ -1,0 +1,166 @@
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\appsettings.Development.json
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\appsettings.json
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\KShop.exe
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\KShop.deps.json
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\KShop.runtimeconfig.json
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\KShop.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\KShop.pdb
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Azure.Core.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Azure.Identity.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Humanizer.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\System.CodeDom.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\System.Memory.Data.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\KShop.csproj.AssemblyReference.cache
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\KShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\KShop.AssemblyInfoInputs.cache
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\KShop.AssemblyInfo.cs
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\KShop.csproj.CoreCompileInputs.cache
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\KShop.MvcApplicationPartsAssemblyInfo.cs
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\KShop.MvcApplicationPartsAssemblyInfo.cache
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\staticwebassets\msbuild.KShop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\staticwebassets\msbuild.build.KShop.props
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.KShop.props
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.KShop.props
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\staticwebassets.pack.json
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\staticwebassets.build.json
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\staticwebassets.development.json
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\scopedcss\bundle\KShop.styles.css
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\KShop.csproj.CopyComplete
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\KShop.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\refint\KShop.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\KShop.pdb
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\KShop.genruntimeconfig.cache
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\obj\Debug\net7.0\ref\KShop.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\tasks\csharp\.NET CORE\Api Projects\KShop\KShop\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\appsettings.json
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\KShop.exe
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\KShop.deps.json
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\KShop.runtimeconfig.json
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\KShop.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\KShop.pdb
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Humanizer.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\KShop.csproj.AssemblyReference.cache
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\KShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\KShop.AssemblyInfoInputs.cache
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\KShop.AssemblyInfo.cs
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\KShop.csproj.CoreCompileInputs.cache
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\KShop.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\KShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\staticwebassets\msbuild.KShop.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\staticwebassets\msbuild.build.KShop.props
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.KShop.props
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.KShop.props
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\scopedcss\bundle\KShop.styles.css
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\KShop.csproj.CopyComplete
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\KShop.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\refint\KShop.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\KShop.pdb
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\KShop.genruntimeconfig.cache
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\obj\Debug\net7.0\ref\KShop.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\WhiteRaven\Downloads\ecommerce-master\KShop\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
