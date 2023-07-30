@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u0GJIICQ+ID7kaFX+nGGCzDb7XFLaOwJxtMC1xEacikDr9i+QTPZKq4WRdh4NVR4M78RMTmz7K+gKRGcWeBjWQ==",
+  "dgSpecHash": "NP8+ZdZEUmGDzRKWyBOEY0HB/iO254J4hR73Qmh+6OQJkRJGZQTb+24LTX1D4igFqtvonW3b96kCoTdAn+GiGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\WhiteRaven\\Downloads\\ecommerce-master\\KShop\\KShop.csproj",
+  "projectFilePath": "E:\\getintoweb\\ecommerce-api\\KShop\\KShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WhiteRaven\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\WhiteRaven\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -4162,11 +4162,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WhiteRaven\\Downloads\\ecommerce-master\\KShop\\KShop.csproj",
+      "projectUniqueName": "E:\\getintoweb\\ecommerce-api\\KShop\\KShop.csproj",
       "projectName": "KShop",
-      "projectPath": "C:\\Users\\WhiteRaven\\Downloads\\ecommerce-master\\KShop\\KShop.csproj",
+      "projectPath": "E:\\getintoweb\\ecommerce-api\\KShop\\KShop.csproj",
       "packagesPath": "C:\\Users\\WhiteRaven\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WhiteRaven\\Downloads\\ecommerce-master\\KShop\\obj\\",
+      "outputPath": "E:\\getintoweb\\ecommerce-api\\KShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

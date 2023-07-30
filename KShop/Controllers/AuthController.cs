@@ -4,6 +4,7 @@ using KShop.Core.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace KShop.Controllers
 {
@@ -12,11 +13,13 @@ namespace KShop.Controllers
     public class AuthController : ControllerBase
     {
         private readonly UserManager<ApplicationUser> _userManager;
+        private readonly SignInManager<ApplicationUser> _signInManager;
         private readonly IMapper _mapper;
-        public AuthController(UserManager<ApplicationUser> userManager, IMapper mapper)
+        public AuthController(UserManager<ApplicationUser> userManager, IMapper mapper, SignInManager<ApplicationUser> signInManager)
         {
             _userManager = userManager;
             _mapper = mapper;
+            _signInManager = signInManager;
         }
 
         [HttpPost]
@@ -37,6 +40,18 @@ namespace KShop.Controllers
             }
             //await _userManager.AddToRoleAsync(user, "User");
             return Ok();
+        }
+        [HttpPost("Login")]
+        public async Task<IActionResult> Login(LoginDto model)
+        {
+            var userName = model.Email.ToUpper();
+            var user = await _userManager.Users.FirstOrDefaultAsync(u => u.NormalizedEmail == userName || u.NormalizedUserName == userName);
+            if (user == null)
+                return Ok("You don't have an account");
+            var result = await _signInManager.PasswordSignInAsync(user, model.Password, false, lockoutOnFailure: true);
+            if (result.Succeeded)
+                return Ok(user);
+            return BadRequest("wrong username or password");
         }
     }
 }
